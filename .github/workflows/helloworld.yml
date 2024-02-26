@@ -9,9 +9,10 @@ on:
   pull_request:
     branches:
       -main
+      
   workflow_dispatch:
 
-# Woorkflow / Jobs
+# Workflow / Jobs
 
 jobs:
   hello:
