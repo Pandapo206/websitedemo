@@ -8,8 +8,7 @@ on:
        -main
 pull_request:
   branches:
-    -mains
-
+    -main
  workflow_dispatch:
 
 # Woorkflow / Jobs
