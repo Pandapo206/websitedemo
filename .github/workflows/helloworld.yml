@@ -5,11 +5,11 @@ name: hello-world
 on: 
   push: 
     branches:
-       -main
+      -main
 pull_request:
   branches:
-        -main
- workflow_dispatch:
+    -main
+workflow_dispatch:
 
 # Woorkflow / Jobs
 
